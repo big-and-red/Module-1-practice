@@ -35,7 +35,7 @@ git remote remove origin
 ```bash
 git remote add origin https://github.com/ваш-username/имя-вашего-репозитория.git
 ```
-5.Отправьте код в ваш репозиторий:
+5. Отправьте код в ваш репозиторий:
 ```bash
 git push -u origin main
 ```
