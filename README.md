@@ -21,8 +21,7 @@
 ## Использование
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/your-username/python-basics-practice.git
-cd python-basics-practice
+git clone https://github.com/your-username/python-basics-practice.git && cd $_
 ```
 2. Удалите привязку к исходному репозиторию:
 ```bash
