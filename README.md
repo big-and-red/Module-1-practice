@@ -56,7 +56,7 @@ def sum_range(start: int, end: int) -> int:
     """
     return sum(range(start, end + 1))
 ```
-Темы
+## Темы
 - 01_basics
   - Переменные и типы данных
   - Операторы
