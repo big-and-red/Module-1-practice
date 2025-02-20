@@ -1,0 +1,43 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Анна",
+            "email": "anna@example.com",
+            "settings": {
+                "theme": "dark",
+                "notifications": {
+                    "email": true,
+                    "sms": false
+                }
+            },
+            "roles": ["user", "admin"]
+        },
+        {
+            "id": 2,
+            "name": "Борис",
+            "email": "boris@example.com",
+            "settings": {
+                "theme": "light",
+                "notifications": {
+                    "email": false,
+                    "sms": true
+                }
+            },
+            "roles": ["user"]
+        },
+        {
+            "id": 3,
+            "name": "Виктор",
+            "email": "viktor@example.com",
+            "settings": {
+                "theme": "dark",
+                "notifications": {
+                    "email": true,
+                    "sms": true
+                }
+            },
+            "roles": ["user"]
+        }
+    ]
+}

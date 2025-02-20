@@ -1,0 +1,22 @@
+{
+    "database": {
+        "host": "localhost",
+        "port": 5432,
+        "credentials": {
+            "username": "admin",
+            "password": "secret"
+        }
+    },
+    "api": {
+        "url": "https://api.example.com",
+        "version": "v1",
+        "timeout": 30
+    },
+    "features": {
+        "cache": true,
+        "logging": {
+            "enabled": true,
+            "level": "INFO"
+        }
+    }
+}
